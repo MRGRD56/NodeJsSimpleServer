@@ -1,0 +1,10 @@
+{
+    "name": "nodejsproject1",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "@types/node": "^14.14.41"
+    }
+}
